@@ -40,6 +40,7 @@ def recieved_data
   end
   
   def url
-    "https://graph.facebook.com/v2.6/me/messages?access_token=EAABZBzlLzlgEBALfsrKkAA06xfyZCn7blaKb1NzgcnJDQICKioVZCmiWcBKSbPtvTwAvvfDIHjbHKnGMhNxPM695erC4VhMUorXVyn0UkvFW0ECdOZCSJDVmC0vDudDQMHkLbc7NxIch0yj5qWxVhUUEE2DGJXOke9edVxZCElU5ZBHsOcl09J"
+    "https://graph.facebook.com/v2.6/me/messages?access_token=EAAYZBljH233sBABvDd3StkyB3Pd8aQOBnyeHi0zLeO7jQES6bUUFRY7iJANhud0pDtTjNLtddUZCI6FDiq9WhROHc8SlguAW1zBhf9IROvdUaoHZBGBhdB53egOZBqOi6heOiyx5GK9xnMToXhmvwHMAyxTxqqamIZC5jfZBJKbgvCnWqw47kN"
+  end
  
 end
