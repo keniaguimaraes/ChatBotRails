@@ -34,6 +34,7 @@ gem 'jbuilder', '~> 2.5'
 # gem 'capistrano-rails', group: :development
 gem 'http'
 gem 'listen', '~> 3.0.5'
+gem "wikipedia-client"
 
 group :development do
   # Access an IRB console on exception pages or by using <%= console %> anywhere in the code.
